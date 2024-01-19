@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TgBotFunVersion\TgBotFunVersion\Log.txt
+System.FormatException: Входная строка имела неверный формат.
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDecimal(String value)
+   в TgBotFunVersion.Program.<UpdateHandler>d__6.MoveNext() в C:\Users\User\source\repos\TgBotFunVersion\TgBotFunVersion\Program.cs:строка 144
+ Время ошибки:19.01.2024 18:13:28
+System.FormatException: Входная строка имела неверный формат.
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDecimal(String value)
+   в TgBotFunVersion.Program.<UpdateHandler>d__6.MoveNext() в C:\Users\User\source\repos\TgBotFunVersion\TgBotFunVersion\Program.cs:строка 144
+ Время ошибки:19.01.2024 18:13:53
